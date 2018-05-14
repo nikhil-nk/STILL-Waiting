@@ -1,4 +1,4 @@
-## STILL-Waiting
+## STILL-Waiting  [![Build Status](https://travis-ci.org/siddharth2010/STILL-Waiting.svg?branch=master)](https://travis-ci.org/siddharth2010/STILL-Waiting)
 
 This app is an SQLite, and SMS API based solution built for Android to manage queues at Hotels, Offices, Banks, etc, virtually any place where there is a long queue. 
 
